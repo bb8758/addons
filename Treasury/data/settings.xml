@@ -1,0 +1,19 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <AutoDrop>false</AutoDrop>
+        <AutoStack>true</AutoStack>
+        <Delay>0</Delay>
+        <Drop />
+        <Lot />
+        <Pass />
+        <Verbose>false</Verbose>
+    </global>
+    <erzalxix>
+        <Drop>Flame Geode,Aqua Geode,Garudite,Thunder Geode,Soil Geode,Fenrite,Snow Geode,Breeze Geode,Shadow Geode,Leviatite,Shivite,Light Geode</Drop>
+    </erzalxix>
+    <saberlxix>
+        <Drop>Odious Scale,Odious Grenade,Odious Skull,Odious Charm,Odious Root,Odious Blood,Odious Die,Odious Backscale,Odious Bell,Odious Leather,Odious Cryptex,Odious Mask,Odious Holy Wtr.,Odious Horn,Odious Feather,Odious Mirror,Odious Necklace,Odious Engraving,Odious Strongbox,Odious Quipu,Odious Cup,Odious Pen,Odious Talisman,Odious Letterbox</Drop>
+        <Lot>Dls. Gloves +1,Saotome Domaru,Saotome Kote,Duelist&apos;s Belt,Dls. Torque +2,Sao. Kote +2,L. Wing Box,Duelist&apos;s Torque,Sao. Sune-Ate +1,Lu. Scale Box,Dls. Tabard -1,Lustreless Hide,Silver Beastcoin,Sao. Kabuto +2,O. Bronzepiece,Sao. Kabuto -1,Dls. Chapeau +1,Dls. Chapeau -1,Duelist Board,Saotome Haidate,Ordelle Chest Key,Dls. Tights -1,Beastcoin,Gold Beastcoin,Plt. Beastcoin,Dls. Tabard +1,Duelist&apos;s Chapeau,Dualism Collar +1,Lustreless Wing,Dls. Boots +1,Dls. Tights +1,Sao. Sune-Ate +2,Duelist&apos;s Tights,Saotome Sune-Ate,Forgotten Step,Mtl. Beastcoin,Sao. Kote -1,Dls. Boots +2,Lustreless Scale,Dls. Chapeau +2,Eschalixir,Dls. Torque +1,Sao. Kote +1,Sao. Domaru -1,Duelist&apos;s Boots,Dls. Tabard +2,Saotome Kabuto,100 Byne Bill,Sao. Domaru +2,Sao. Kabuto +1,Lu. Hide Box,Duelist&apos;s Sword,Saotome-no-Tachi,Dls. Gloves +2,Eschalixir +2,Eschalixir +1,Anct. Beastcoin,Dls. Boots -1,1 Byne Bill,Duelist&apos;s Gloves,Sao. Domaru +1,T. Whiteshell,Sao. Haidate +1,Sao. Koshi-Ate,Dls. Gloves -1,Sao. Haidate -1,Dualism Collar,&quot;10,000 Byne Bill&quot;,Sao. Sune-Ate -1,Sao. Haidate +2,Dls. Tights +2,Duelist&apos;s Tabard</Lot>
+    </saberlxix>
+</settings>

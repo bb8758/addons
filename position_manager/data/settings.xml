@@ -1,0 +1,17 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <delay>0</delay>
+        <height>-1</height>
+        <width>-1</width>
+        <x>0</x>
+        <y>0</y>
+    </global>
+    <erzalxix>
+        <x>1715</x>
+        <y>276</y>
+    </erzalxix>
+    <saberlxix>
+        <y>276</y>
+    </saberlxix>
+</settings>

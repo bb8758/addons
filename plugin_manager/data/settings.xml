@@ -1,0 +1,68 @@
+<settings>
+	<global>
+		<!-- This will be used for all the characters that you don't make a specific set of plugins/addons for -->
+    <addon>azureSets</addon>
+    <addon>battlemod</addon>
+    <addon>cancel</addon>
+    <addon>chars</addon>
+    <addon>ConsoleBG</addon>
+    <addon>distance</addon>
+    <addon>DressUp</addon>
+    <addon>findAll</addon>
+    <addon>GearSwap</addon>
+    <addon>Logger</addon>
+    <addon>pointwatch</addon>
+    <addon>porter</addon>
+    <addon>scoreboard</addon>
+    <addon>shortcuts</addon>
+    <addon>SpeedChecker</addon>
+    <addon>Text</addon>
+    <addon>timestamp</addon>
+    <addon>Treasury</addon>
+    <addon>update</addon>
+    <addon>giltracker</addon>
+    <addon>SpellCheck</addon>
+    <addon>SpellBook</addon>
+    <addon>latentchecker</addon>
+    <addon>Silence</addon>
+    <addon>autojoin</addon>
+    <addon>aecho</addon>
+    <addon>InfoBar</addon>
+    <addon>superwarp</addon>
+    <addon>equipviewer</addon>
+    <addon>Silmaril</addon>
+	<addon>position_manager</addon>
+	<addon>myhome</addon>
+	<addon>shortcuts</addon>
+	<addon>SellNPC</addon>
+	<addon>Trade</addon>
+	<addon>TradeNPC</addon>
+	<addon>cancel</addon>
+	<addon>Enternity</addon>
+	<addon>Send</addon>
+    <plugin>DelayMeNot</plugin>
+    <plugin>Guildwork</plugin>
+    <plugin>Sandbox</plugin>
+    <plugin>SSOrganizer</plugin>
+    <plugin>Timers</plugin>
+    <plugin>FFXIDB</plugin>
+    <plugin>Config</plugin>
+    <plugin>LightLuggage</plugin>
+    <plugin>Run</plugin>
+<!--	<plugin>WinControl</plugin> -->
+	</global>
+	<YourName> <!-- This is just an example. You need to replace "YourName" to the left and below with the character name that you want the set of plugins to work for. -->
+		<plugin>Binder</plugin>
+		<plugin>ConsoleBG</plugin>
+		<plugin>FFOChat</plugin>
+		<plugin>Itemizer</plugin>
+		<plugin>SSOrganizer</plugin>
+		<plugin>Timers</plugin>
+		<plugin>Guildwork</plugin>
+		<addon> Core</addon>
+
+		<addon>send</addon>
+		<addon>battlemod</addon>
+		<addon>ffocolor</addon>
+	</YourName>
+</settings>
